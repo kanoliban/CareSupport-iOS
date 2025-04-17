@@ -128,5 +128,5 @@ Detailed documentation is available in the `/docs` directory:
 ## Contact
 
 For questions about this project, please contact:
-- Product Owner: [name@caresupport.com]
+- Product Owner: [liban@caresupport.com]
 - Technical Lead: [techlead@caresupport.com]
